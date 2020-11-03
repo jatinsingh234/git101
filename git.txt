@@ -1,0 +1,12 @@
+https://opensource.com/article/19/7/create-pull-request-github
+
+(first fork the repo to your account if wanna make contributions)
+
+git init
+git clone http...
+git remote add origin https://github.com/jatinsingh/reponame.git
+
+--create a new branch and do your changes--
+git remote add upstream https://github.com/kedark3/demo
+
+push and create a pull request
